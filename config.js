@@ -1,17 +1,20 @@
 const CONFIG = {
-    titleWeb: "FromThanhDatWithLove",
-    introTitle: 'Võ Thùy Linh ơi',
-    introDesc: 'Hay là mình cứ bất chấp hết yêu nhau đi em',
-    btnIntro: '^^Dạ^^',
-    title: 'Jocasta có iu Laius không',
-    desc: 'Hãy lựa chọn đúng đắn ',
-    btnYes: 'Iu chứ. Iu nhiều là khác',
-    btnNo: 'Không bao giờ',
-    question: 'Tại sao em lại chọn anh vậy?',
-    btnReply: 'Gửi tới Thành Đạt',
-    reply: 'Thích thế đó được khum?',
-    mess: 'Anh biết ngay mà',
-    messDesc: 'Chủ nhật anh qua đón nhá',
+    titleWeb: "Tiêu đề web",
+    introTitle: 'Thùy Linh ơi',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
+    btnIntro: '^^HiHi^^',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Thích lắm <33',
+    btnNo: 'Không nha :3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    btnReply: 'Gửi cho Đạt <3',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    messDesc: 'Chủ nhật nay , anh qua đón nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://laius1108.github.io/'
+    messLink: 'https://github.com/Laius1108/Confess-Crush'
 }

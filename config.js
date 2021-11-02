@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "FromThanhDatWithLove",
     introTitle: 'Võ Thùy Linh ơi',
-    introDesc: `Hay là mình cứ bất chấp hết yêu nhau đi em`,
+    introDesc: 'Hay là mình cứ bất chấp hết yêu nhau đi em',
     btnIntro: '^^Dạ^^',
     title: 'Jocasta có iu Laius không',
     desc: 'Hãy lựa chọn đúng đắn ',
